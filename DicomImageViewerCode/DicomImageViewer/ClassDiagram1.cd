@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DicomImageViewer.Properties.Resources" Collapsed="true">
+    <Position X="39.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DicomImageViewer.Properties.Settings" Collapsed="true">
+    <Position X="41.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DicomImageViewer.DicomDecoder" Collapsed="true">
+    <Position X="45" Y="16.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>tXSEbRkpCykwIS+jV1DEdsAmCB3AGxAERAXICIGIPew=</HashCode>
+      <FileName>DicomDecoder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DicomImageViewer.DicomDictionary" Collapsed="true">
+    <Position X="45" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DicomDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DicomImageViewer.DicomTagsForm" Collapsed="true">
+    <Position X="43.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAAAAAAEFCAAADCAwAAACAAAAAAQIAAAAA=</HashCode>
+      <FileName>DicomTagsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DicomImageViewer.ImagePanelControl" Collapsed="true">
+    <Position X="39.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQJYpAFCQKQAFwMAZoaIABBqAGBgAAAQEBIbAcACSJk=</HashCode>
+      <FileName>ImagePanelControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DicomImageViewer.MainForm" Collapsed="true">
+    <Position X="41.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQgAABDEAmUIEBAEAgCAEpACACAAANKAEEAACEAAAJQ=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DicomImageViewer.Program" Collapsed="true">
+    <Position X="43.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DicomImageViewer.WindowLevelGraphControl" Collapsed="true">
+    <Position X="38" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HistogramGraphControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="DicomImageViewer.TypeOfDicomFile" Collapsed="true">
+    <Position X="41.5" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAABAAAAAAAAABAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>DicomDecoder.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DicomImageViewer.ImageBitsPerPixel" Collapsed="true">
+    <Position X="39.75" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAgAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DicomImageViewer.ViewSettings" Collapsed="true">
+    <Position X="43.25" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
